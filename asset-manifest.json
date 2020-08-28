@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Airbnb-Bharath/static/css/main.f42617f2.chunk.css",
+    "main.js": "/Airbnb-Bharath/static/js/main.b03b7ed7.chunk.js",
+    "main.js.map": "/Airbnb-Bharath/static/js/main.b03b7ed7.chunk.js.map",
+    "runtime-main.js": "/Airbnb-Bharath/static/js/runtime-main.9cb45d89.js",
+    "runtime-main.js.map": "/Airbnb-Bharath/static/js/runtime-main.9cb45d89.js.map",
+    "static/css/2.a1840750.chunk.css": "/Airbnb-Bharath/static/css/2.a1840750.chunk.css",
+    "static/js/2.99aac85e.chunk.js": "/Airbnb-Bharath/static/js/2.99aac85e.chunk.js",
+    "static/js/2.99aac85e.chunk.js.map": "/Airbnb-Bharath/static/js/2.99aac85e.chunk.js.map",
+    "index.html": "/Airbnb-Bharath/index.html",
+    "precache-manifest.c476ca86fb80ddb10a28f25841c6374a.js": "/Airbnb-Bharath/precache-manifest.c476ca86fb80ddb10a28f25841c6374a.js",
+    "service-worker.js": "/Airbnb-Bharath/service-worker.js",
+    "static/css/2.a1840750.chunk.css.map": "/Airbnb-Bharath/static/css/2.a1840750.chunk.css.map",
+    "static/css/main.f42617f2.chunk.css.map": "/Airbnb-Bharath/static/css/main.f42617f2.chunk.css.map",
+    "static/js/2.99aac85e.chunk.js.LICENSE.txt": "/Airbnb-Bharath/static/js/2.99aac85e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb45d89.js",
+    "static/css/2.a1840750.chunk.css",
+    "static/js/2.99aac85e.chunk.js",
+    "static/css/main.f42617f2.chunk.css",
+    "static/js/main.b03b7ed7.chunk.js"
+  ]
+}
