@@ -1,0 +1,49 @@
+.banner {
+  height: 51vh;
+  position: relative;
+  background: url("https://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg")
+    center center;
+}
+.banner__info {
+  background-color: rgb(56, 51, 51);
+  color: white;
+  padding-top: 9vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width: 300px;
+}
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  border-radius: 10px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+.banner__info > button:hover {
+  background-color: #fff;
+  color: #ff7779;
+}
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+  border-radius: 15px;
+}
+.banner__info > h5 {
+  font-size: 15px;
+  padding: 15px;
+  font-style: italic;
+  color: rgb(248, 240, 230);
+}
+.banner__info > h1 {
+  font-size: 20px;
+  padding: 10px;
+  font-weight: 700;
+}
